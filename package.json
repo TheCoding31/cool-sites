@@ -1,0 +1,13 @@
+{
+  "name": "chrome-extension",
+  "type": "module",
+  "scripts": {
+    "dev": "imba serve",
+    "build": "imba build",
+    "preview": "imba preview"
+  },
+  "devDependencies": {
+    "imba": "^2.0.0-alpha.235",
+    "vite": "^5.3.3"
+  }
+}
